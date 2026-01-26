@@ -1,51 +1,51 @@
 # Otodom Poland Real Estate Listings Dataset Sample
 
-<h2>A sample dataset of 6,252 records</h2>
+<h2>Ein Beispiel-Datensatz mit 6.252 Datensätzen</h2>
 
-<a href="https://brightdata.com">
+<a href="https://brightdata.de">
     <img src="https://github.com/luminati-io/Otodom-Poland-dataset-samples/blob/main/datasets-image.png" alt="Bright Data datasets" />
 </a>
 
-This **Otodom Poland Real Estate Listings Dataset Sample** includes **6,252 records** and was extracted using the **Bright Data API**.
+Dieses **Otodom Poland Real Estate Listings Dataset Sample** umfasst **6.252 Datensätze** und wurde mithilfe der **Bright Data API** extrahiert.
 
 ## Data Points
 
 | Field Name | Description |
 |------------|-------------|
-| `timestamp` | The date and time when the listing was recorded in the dataset. |
-| `title` | A brief title describing the property listing, often highlighting key features. |
-| `price` | The asking price for the property listed, in Polish zloty (PLN). |
-| `market` | Indicates the type of market, such as primary or secondary. |
-| `surface` | The total living area of the property in square meters. |
-| `location` | The full address of the property, including street, city, and voivodeship. |
-| `remote_support` | Indicates if the listing offers any form of remote support for potential buyers. |
-| `lighting` | Details about the natural or artificial lighting features of the property. |
-| `advertiser_type` | Specifies whether the listing is posted by an agency or a private seller. |
-| `description` | A detailed description of the property and its features. |
-| `no_of_rooms` | The total number of rooms available in the property. |
-| `form_of_property` | The type or classification of the property, such as apartment or house. |
-| `url` | The web address where the full property listing can be viewed. |
-| `is_for_sale` | A boolean indicating if the property is currently for sale. |
-| `posting_id` | A unique identifier for the property listing in the dataset. |
+| `timestamp` | Das Datum und die Uhrzeit, zu denen das Inserat im Datensatz erfasst wurde. |
+| `title` | Ein kurzer Titel, der das Immobilieninserat beschreibt und häufig wichtige Merkmale hervorhebt. |
+| `price` | Der Angebotspreis der gelisteten Immobilie in polnischen Złoty (PLN). |
+| `market` | Gibt die Art des Marktes an, z. B. primär oder sekundär. |
+| `surface` | Die gesamte Wohnfläche der Immobilie in Quadratmetern. |
+| `location` | Die vollständige Adresse der Immobilie, einschließlich Straße, Stadt und Woiwodschaft. |
+| `remote_support` | Gibt an, ob das Inserat irgendeine Form von Remote-Unterstützung für potenzielle Käufer bietet. |
+| `lighting` | Details zu den natürlichen oder künstlichen Beleuchtungsmerkmalen der Immobilie. |
+| `advertiser_type` | Gibt an, ob das Inserat von einer Agentur oder einem privaten Verkäufer eingestellt wurde. |
+| `description` | Eine detaillierte Beschreibung der Immobilie und ihrer Merkmale. |
+| `no_of_rooms` | Die Gesamtzahl der in der Immobilie verfügbaren Zimmer. |
+| `form_of_property` | Der Typ oder die Klassifizierung der Immobilie, z. B. Wohnung oder Haus. |
+| `url` | Die Webadresse, unter der das vollständige Immobilieninserat angezeigt werden kann. |
+| `is_for_sale` | Ein boolescher Wert, der angibt, ob die Immobilie derzeit zum Verkauf steht. |
+| `posting_id` | Eine eindeutige Kennung für das Immobilieninserat im Datensatz. |
 
 
 ## Use Cases
 
-### 1. Real Estate Market Analysis
-Analyze trends in the Polish real estate market to identify investment opportunities and price changes over time.
+### 1. Analyse des Immobilienmarktes
+Analysieren Sie Trends auf dem polnischen Immobilienmarkt, um Investitionsmöglichkeiten und Preisänderungen im Zeitverlauf zu identifizieren.
 
-### 2. Competitor Analysis for Agencies
-Real estate agencies can use this data to benchmark against competitors and refine their property listing strategies.
+### 2. Wettbewerbsanalyse für Agenturen
+Immobilienagenturen können diese Daten nutzen, um sich mit Wettbewerbern zu vergleichen und ihre Strategien für Immobilieninserate zu verfeinern.
 
-### 3. Urban Development Research
-Researchers can study the impact of urban development on property values and housing availability in different regions.
+### 3. Forschung zur Stadtentwicklung
+Forschende können die Auswirkungen der Stadtentwicklung auf Immobilienwerte und die Verfügbarkeit von Wohnraum in verschiedenen Regionen untersuchen.
 
 
 
 ## File Formats
 
-The dataset is available in multiple formats:
-- **CSV** (included in this sample)
+Der Datensatz ist in mehreren Formaten verfügbar:
+- **CSV** (in diesem Sample enthalten)
 - **JSON**
 - **NDJSON**
 - **JSON Lines**
@@ -65,8 +65,8 @@ The dataset is available in multiple formats:
 
 ## Update Frequency
 
-Datasets can be updated on various schedules:
-- **Once** (one-time delivery)
+Datensätze können nach verschiedenen Zeitplänen aktualisiert werden:
+- **Once** (einmalige Bereitstellung)
 - **Daily**
 - **Weekly**
 - **Monthly**
@@ -75,14 +75,14 @@ Datasets can be updated on various schedules:
 
 ## Data Enrichment
 
-Enhance your dataset with additional data points based on your specific requirements. Contact us for custom enrichment options.
+Erweitern Sie Ihren Datensatz basierend auf Ihren spezifischen Anforderungen um zusätzliche Datenpunkte. Kontaktieren Sie uns für benutzerdefinierte Enrichment-Optionen.
 
-**[Get the full Otodom Poland Real Estate Listings dataset](https://brightdata.com/products/datasets/otodom)**
+**[Holen Sie sich den vollständigen Otodom Poland Real Estate Listings dataset](https://brightdata.de/products/datasets/otodom)**
 
 ---
 
-## Free Access for Researchers and NGOs
+## Kostenloser Zugang für Forschende und NGOs
 
-The Bright Initiative offers free access to **[Web Scraper APIs](https://brightdata.com/products/web-scraper)** and **[ready-to-use datasets](https://brightdata.com/products/datasets)** for academic researchers, NGOs, and NPOs working on environmental and social causes. 
+Die Bright Initiative bietet akademischen Forschenden, NGOs und NPOs, die an Umwelt- und Sozialthemen arbeiten, kostenlosen Zugang zu **[Web Scraper APIs](https://brightdata.de/products/web-scraper)** und **[einsatzbereiten Datensätzen](https://brightdata.de/products/datasets)**. 
 
-Apply for free access at [brightinitiative.com](https://brightinitiative.com).
+Beantragen Sie kostenlosen Zugang unter [brightinitiative.com](https://brightinitiative.com).
