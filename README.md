@@ -3,7 +3,7 @@
 <h2>Ein Beispiel-Datensatz mit 6.252 Datensätzen</h2>
 
 <a href="https://brightdata.de">
-    <img src="https://github.com/luminati-io/Otodom-Poland-dataset-samples/blob/main/datasets-image.png" alt="Bright Data datasets" />
+    <img src="https://github.com/bright-data-de/Otodom-Poland-dataset-samples/blob/main/datasets-image.png" alt="Bright Data datasets" />
 </a>
 
 Dieses **Otodom Poland Real Estate Listings Dataset Sample** umfasst **6.252 Datensätze** und wurde mithilfe der **Bright Data API** extrahiert.
